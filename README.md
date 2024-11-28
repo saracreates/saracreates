@@ -2,7 +2,7 @@
 
 Hiii! Nice to meet you! I'm Sara, a particle physicist who applies machine learning (ML) methods to address current challenges in high energy physics. I'm currently holding a research position at CERN, where I work on the next generation of particle colliders to unravel mysteries of our universe! The project is called "Future Circular Collider" (FCC) and tries to characterize the Standard Model of particle physics via probing the Higgs Boson. The Higgs Boson is an elementry particle discovered in 2012 at CERN - but the story is not over, it's a beginning: we want to understand its properties! 
 
-If you are interested in my career, check out [my CV](https://drive.google.com/file/d/1Xmctpf8N6ZfO1KLyBnINvrqcqsmkAQrm/view?usp=sharing)!
+If you are interested in my career and background, check out [my CV](https://drive.google.com/file/d/1Xmctpf8N6ZfO1KLyBnINvrqcqsmkAQrm/view?usp=sharing)!
 
 ## 📌 Projects
 
@@ -14,7 +14,7 @@ In my [bachelor thesis](https://wwwcompass.cern.ch/compass/publications/theses/2
 
 ### 🏳️‍🌈 Particle signature classification at a future collider at CERN ([FullSimTagger](https://github.com/saracreates/FullSimTagger))
 
-Currently, I'm working on classifying a specific type of particle signature (jet-flavor tagging). As we want to probe the Higgs boson at future colliders, it is important to understand how it is interacting with different particles. Therefore, we want to know in which particles the Higgs boson decays. I study seven possible decay channels of the Higgs boson and distinuigh them with state-of-the-art neural networks. This work is especially important because it contributes to the FCC feasability study due in March 2025. If you want to find out more about this work, read my publication on the [CERN server](https://repository.cern/records/4pcr6-r0d06). 
+Currently, I'm working on classifying a specific type of particle signature (jet-flavor tagging). As we want to probe the Higgs boson at future colliders, it is important to understand how it is interacting with different particles. Therefore, we want to know in which particles the Higgs boson decays. I study seven possible decay channels of the Higgs boson and distinuigh them with state-of-the-art neural networks. This work is especially important because it contributes to the FCC feasability study due in March 2025. If you want to find out more about this work, read my [publication](https://repository.cern/records/4pcr6-r0d06) on the CERN server. 
 
 ### 🔑 Official implemetation of jet-flavor tagging in full simulation at FCC-ee ([JetTagging](https://github.com/saracreates/JetTagging))
 
