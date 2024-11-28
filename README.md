@@ -2,7 +2,7 @@
 
 Hiii! Nice to meet you! I'm Sara, a particle physicist who applies machine learning (ML) methods to address current challenges in high energy physics. I'm currently holding a research position at CERN, where I work on the next generation of particle colliders to unravel mysteries of our universe! The project is called "Future Circular Collider" (FCC) and tries to characterize the Standard Model of particle physics via probing the Higgs Boson. The Higgs Boson is an elementry particle discovered in 2012 at CERN - but the story is not over, it's a beginning: we want to understand its properties! 
 
-If you are interested in my career, check out [my CV](https://drive.google.com/file/d/1A9lviuI4FCmFvqfPk7NUJy4RMz3FVRBe/view?usp=sharing)!
+If you are interested in my career, check out [my CV](https://drive.google.com/file/d/1Xmctpf8N6ZfO1KLyBnINvrqcqsmkAQrm/view?usp=sharing)!
 
 ## 📌 Projects
 
